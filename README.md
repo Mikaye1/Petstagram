@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mikaye1
 - 👀 I’m interested in Art
-- 🌱 I’m currently learning Java
+- 🌱 I’m know Java, Html, CSS, JS.
 - 💞️ I’m looking to collaborate on a company with the highest salary 
 - 📫 How to reach me ? I'll reach you
 
